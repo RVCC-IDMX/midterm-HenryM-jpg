@@ -33,13 +33,14 @@ header{
     align-items: center;
 
 }
-#reviews div{
+.review{
     border: solid 5px;
     background-color: blanchedalmond;
+    border-radius: 15px;
 }
 /* Footer */
 footer{
-    background-color: blue;
+    background-color: lightblue;
 }
 
 
