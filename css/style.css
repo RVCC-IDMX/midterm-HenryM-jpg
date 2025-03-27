@@ -1,18 +1,53 @@
 /* Styles for Mobile Site */
 
-/* Header & Hero */
+body{
+    background-color: maroon;
+}
 
+/* Header & Hero */
+header{
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30pt;
+}
+
+#hero{
+    font-size: 20pt;
+}
+
+#hero img{
+    max-width: 100%;
+}
 /* Projects */
+#projects{
+    background-color: white;
+    text-align: center;
+
+}
+
 
 /* Reviews */
+#reviews{
+    background-color: white;
+    align-items: center;
 
+}
+#reviews div{
+    border: solid 5px;
+    background-color: blanchedalmond;
+}
 /* Footer */
+footer{
+    background-color: blue;
+}
 
 
 /* Media state for Desktop site */
 @media (min-width: 1000px) {
 
     /* Header & Hero */
+    
 
     /* Projects */
 
